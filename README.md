@@ -3,24 +3,16 @@
 
 1、new project
 选择文件中new project 出现如下的界面：
-![new project](/Picture/1.png)
+![步骤1](/Picture/1.png)
 
 2、填写project name
 
-![project name](/Picture/2.png)
+![步骤2](/Picture/2.png)
 
+3、目录结构如图所示，双击打开index.jsp文件，作适当的修改。接下来的任务就是将项目部署到Tomcat服务器
+在界面的右侧上方有个下拉框，这个地方下拉会发现有一个Edit Configuration选项。
 
-
-选择File中的New Module创建项目，选择图中标记的项点next继续下一步
-
-点击Finish之后会自动创建一个项目名为WebTest，目录结构如图所示：
-
-双击打开index.jsp文件，作适当的修改。
-
-
-接下来的任务就是将项目部署到Tomcat服务器
-在界面的右侧上方有个下拉框，这个地方下拉会发现有一个Edit Configuration选项
-
+[步骤3](/Picture/3.png)
 
 打开出现下面的界面
 
